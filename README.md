@@ -50,8 +50,11 @@ Create an optimized production build:
 npm run build
 ```
 
+## 👤 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/shashank-shetty-070447336/)
+
 ## 📜 License
 This project is open-source and available under the [MIT License](LICENSE).
 
 ---
-*Created as an Internship Prototype V1*
+*Created by [Shashank Shetty](https://www.linkedin.com/in/shashank-shetty-070447336/) - Internship Prototype V1*
