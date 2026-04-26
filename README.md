@@ -1,16 +1,57 @@
-# React + Vite
+# 🎯 Number Hunter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A premium, high-stakes number guessing game built with **React**, **Vite**, and **Tailwind CSS**. Experience a sleek, hypnotic interface as you hunt for the secret code.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+**[Play Number Hunter on Vercel](https://numberguessing-git-main-shaz-06s-projects.vercel.app/)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
+- **Hypnotic UI**: Stunning background animations with a repeating-conic-gradient spiral and floating perspective grid.
+- **Glassmorphism Design**: Modern card interface with backdrop blur and premium emerald-to-teal gradients.
+- **Real-time Feedback**: Instant "Too HIGH" or "Too LOW" hints to guide your hunt.
+- **System History**: A complete log of your previous guesses and their results.
+- **Responsive Animations**: Pulse effects and transitions that make the game feel alive.
 
-## React Compiler
+## 🛠️ Tech Stack
+- **Frontend**: React (Hooks, Refs)
+- **Styling**: Tailwind CSS 4 (Theme-first approach)
+- **Icons**: Lucide React
+- **Build Tool**: Vite
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🏃‍♂️ Getting Started
 
-## Expanding the ESLint configuration
+### Prerequisites
+- Node.js (v18 or higher)
+- npm or yarn
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/shaz-06/Number-Guessing-.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd Number-Guessing-
+   ```
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+### Development
+Start the development server:
+```bash
+npm run dev
+```
+
+### Building for Production
+Create an optimized production build:
+```bash
+npm run build
+```
+
+## 📜 License
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+*Created as an Internship Prototype V1*
